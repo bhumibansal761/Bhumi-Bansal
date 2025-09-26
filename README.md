@@ -1,7 +1,7 @@
 # Hi — I’m Bhumi Bansal 👋
 **Digital Marketer | SEO & Growth | Content Strategy 🚀**
 
-📍 Based in India • 📧 bhumibansal761@gmail.com • 🔗 [[LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/bhumi-bansal-4a309625b/)
+📍 Based in India • 📧 bhumibansal761@gmail.com • 🔗 (https://www.linkedin.com/in/bhumi-bansal-4a309625b/)
 
 ---
 
