@@ -19,7 +19,11 @@ Focus areas: SEO audits, content strategy, and growth campaigns.
 ---
 
 ## Skills & Tools
-SEO · Google Ads · LinkedIn Ads · Content Strategy · Analytics (GA4) · Excel · Canva · Basic Video Editing  
+- **SEO & Analytics:** SEO Audits, Google Analytics 4 (GA4), Google Search Console, Keyword Research, Backlink Analysis  
+- **Marketing & Ads:** Google Ads, LinkedIn Ads, Email Marketing, Social Media Campaigns, Paid Media Strategy  
+- **Content & Design:** Canva, Adobe Photoshop (basic), Video Editing (basic), Content Calendars, Copywriting  
+- **Data & Productivity:** Microsoft Excel (Advanced: Pivot Tables, VLOOKUP, Charts), Google Sheets, Airtable, Trello, Notion  
+- **Marketing Automation & Growth Tools:** Mailchimp, HubSpot (CRM basics), Buffer, Hootsuite, Zapier
 
 ---
 
