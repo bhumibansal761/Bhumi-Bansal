@@ -26,13 +26,13 @@ SEO Audits · Google Analytics 4 (GA4) · Google Search Console · Keyword Resea
 Google Ads · LinkedIn Ads · Email Marketing · Social Media Campaigns · Paid Media Strategy  
 
 **🎨 Content & Design:**  
-Canva · Adobe Photoshop (basic) · Video Editing (basic) · Content Calendars · Copywriting  
+Canva · Canva Pro · Adobe Photoshop (basic) · Video Editing (basic) · Content Calendars · Copywriting  
 
 **📊 Data & Productivity:**  
 Microsoft Excel (Advanced: Pivot Tables, VLOOKUP, Charts) · Google Sheets · Airtable · Trello · Notion  
 
-**⚡ Marketing Automation & Growth Tools:**  
-Mailchimp · HubSpot (CRM basics) · Buffer · Hootsuite · Zapier
+**⚡ Marketing Automation, SEO & Growth Tools:**  
+SEMrush · Ahrefs · Mailchimp · HubSpot (CRM & Workflows) · Buffer · Hootsuite · Zapier · ActiveCampaign · Salesforce Marketing Cloud · Marketo · Sendinblue · MoEngage · Google Tag Manager · Hotjar · Optimizely  
 
 ---
 
