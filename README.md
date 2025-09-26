@@ -24,4 +24,4 @@ SEO · Google Ads · LinkedIn Ads · Content Strategy · Analytics (GA4) · Exce
 ---
 
 ## Want to work together?
-📩 bhumi@example.com — Open to roles in **Digital Marketing & Growth**
+📩 bhumibansal761@gmail.com — Open to roles in **Digital Marketing & Growth**
